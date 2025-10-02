@@ -10,7 +10,7 @@ Update history:
 
 For more information, see the following
 
-- Preprint paper: 
+- Preprint paper: https://arxiv.org/abs/2510.00562
 
 ## How to use
 1. **Downloding datasets
@@ -33,6 +33,15 @@ For more information, see the following
 If you use this code, please cite the following paper:
 
 ```
-
+@misc{takemoto2025geometric,
+      title={Geometric Spatio-Spectral Total Variation for Hyperspectral Image Denoising and Destriping}, 
+      author={Shingo Takemoto and Shunsuke Ono},
+      year={2025},
+      eprint={2510.00562},
+      archivePrefix={arXiv},
+      primaryClass={eess.SP},
+      url={https://arxiv.org/abs/2510.00562}, 
+}
 ```
+
 
